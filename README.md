@@ -2,6 +2,10 @@
 
 3D Scalar Field Sandbox is a self-contained educational web application for exploring a hypothetical relative scalar field, simplified time-response behavior, uncertainty, and an illustrative GPU-driven riverbed morphology visualization.
 
+## Demo
+
+A GitHub Pages demo will be added after the repository is published.
+
 Repository-root `index.html` is the offline release. React, ReactDOM, D3, Three.js, OrbitControls, and generated Tailwind CSS are bundled into the file.
 
 ## Features
