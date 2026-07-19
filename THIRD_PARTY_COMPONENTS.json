@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-07-15",
+  "project": "3D Scalar Field Sandbox",
+  "application_version": "v51",
+  "release_index": {
+    "path": "index.html",
+    "bytes": 1353930,
+    "lines": 7928,
+    "blank": 375,
+    "sha256": "4d8700c942c5e64d8384279328e257dd46f3d472b5e6f518e15731184624aad3",
+    "byte_for_byte_copy_of_supplied_bundle": true
+  },
+  "audit_inputs": {
+    "cdn_source": {
+      "original_filename": "三次元流体シミュレータv51.html",
+      "repository_path": "source/3d-scalar-field-sandbox-v51.cdn-source.html",
+      "bytes": 265871,
+      "lines": 5508,
+      "blank": 0,
+      "sha256": "f7888b25a594c07435fc918a3eebcca48973ccc853c98eee513560162ca121ba",
+      "external_resource_attribute_count": 7,
+      "preconnect_count": 0,
+      "dns_prefetch_count": 0
+    },
+    "supplied_bundle": {
+      "original_filename": "三次元流体シミュレータv51_bundle.html",
+      "repository_path": "index.html",
+      "bytes": 1353930,
+      "lines": 7928,
+      "blank": 375,
+      "sha256": "4d8700c942c5e64d8384279328e257dd46f3d472b5e6f518e15731184624aad3",
+      "external_resource_attribute_count": 0,
+      "preconnect_count": 0,
+      "dns_prefetch_count": 0
+    },
+    "previous_version": {
+      "source_sha256": "e0ff7e8cb0fba1ec8592d7bb575497d18379d5dc4a70538fc5b2a3a14f796d8c",
+      "bundle_sha256": "97c6d5d4c1cbbf9b7e78197fc658628e92e0dd00e7e44fd4e15c907e985dc289",
+      "source_bytes_delta": -721,
+      "bundle_bytes_delta": 144,
+      "source_lines_delta": -369,
+      "bundle_lines_delta": -113
+    }
+  },
+  "runtime_components": [
+    {
+      "name": "React",
+      "version": "18.3.1",
+      "license": "MIT",
+      "script_index": 0,
+      "sha256": "c442051f79346390c6211a722e4b078bb64b8475c55ab5a068c479388f587144",
+      "license_file": "third_party/licenses/REACT.txt"
+    },
+    {
+      "name": "ReactDOM",
+      "version": "18.3.1",
+      "license": "MIT",
+      "script_index": 1,
+      "sha256": "c7454f55a6de940de6c908f0ebcea91120bd6a259f6318546e5a7d7a02d3f8d5",
+      "license_file": "third_party/licenses/REACT.txt"
+    },
+    {
+      "name": "D3",
+      "version": "7.8.5",
+      "license": "ISC",
+      "script_index": 2,
+      "sha256": "e6705ab927061f145db94d59229448ec8fa0a66143fe49d11d0b7ca3856e6735",
+      "license_file": "third_party/licenses/D3.txt"
+    },
+    {
+      "name": "Three.js",
+      "version": "0.128.0 / r128",
+      "license": "MIT",
+      "script_index": 3,
+      "sha256": "ba0c6cb529517d7e286dadcd68d37ff5220aa638e4ac2cd7fcb316aae580924d",
+      "license_file": "third_party/licenses/THREEJS.txt"
+    },
+    {
+      "name": "OrbitControls",
+      "version": "r128",
+      "license": "MIT",
+      "script_index": 4,
+      "sha256": "2ca52b5aa9439a66104ee2df680b4015aefcb41a1cb47bb3f7e1564f0c28e032",
+      "license_file": "third_party/licenses/THREEJS.txt"
+    },
+    {
+      "name": "Tailwind CSS generated output",
+      "version": "3.4.17",
+      "license": "MIT",
+      "style_index": 0,
+      "sha256": "3ea6104516cdebf1e95dc7487cdc950bc2bc2109d9674cc25cee9f2fa388bf64",
+      "license_file": "third_party/licenses/TAILWINDCSS.txt"
+    }
+  ],
+  "build_time_components": [
+    {
+      "name": "Babel",
+      "version": "unknown from generated output",
+      "license": "MIT",
+      "runtime_included": false,
+      "generated_helpers_present": true,
+      "license_file": "third_party/licenses/BABEL.txt"
+    }
+  ],
+  "embedded_notice_components": [
+    {
+      "name": "Modernizr custom fragment",
+      "version": "3.0.0pre",
+      "license": "MIT",
+      "contained_in": "ReactDOM 18.3.1",
+      "license_file": "third_party/licenses/MODERNIZR.txt"
+    }
+  ],
+  "application_segments": [
+    {
+      "script_index": 5,
+      "name": "Compiled application",
+      "version": "v51",
+      "license": "MIT",
+      "third_party": false,
+      "bytes_utf8": 249321,
+      "sha256": "968f97d375467a476e6dc458e1639191f3a354a131f903344a6cfb24d33f670a"
+    },
+    {
+      "script_index": 6,
+      "name": "Liquid-glass interaction behavior",
+      "version": "v51",
+      "license": "MIT",
+      "third_party": false,
+      "bytes_utf8": 6104,
+      "sha256": "3df1221500743cce26d23928be5bf744fb4d4b152ff64e01b5d4756ed7bae478"
+    },
+    {
+      "script_index": 7,
+      "name": "Swipe tab behavior",
+      "version": "v51",
+      "license": "MIT",
+      "third_party": false,
+      "bytes_utf8": 1403,
+      "sha256": "5825b4fa9f4e278583c47a80f89ad7a729c03dd3ad2ac0290e127dab2796c753"
+    },
+    {
+      "style_index": 1,
+      "name": "Application styles",
+      "version": "v51",
+      "license": "MIT",
+      "third_party": false,
+      "bytes_utf8": 24519,
+      "sha256": "c7041d0c8e2420aa2e9ab419d2e2ea17becc7e9018eb3f72d403e3e0149003f3"
+    }
+  ],
+  "license_file_sha256": {
+    "REACT.txt": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+    "D3.txt": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4",
+    "THREEJS.txt": "7dddf7c5b8fd10ee654db8857d75d104b5557889aa5a91fc4ca545ea7c07062f",
+    "TAILWINDCSS.txt": "60e0b68c0f35c078eef3a5d29419d0b03ff84ec1df9c3f9d6e39a519a5ae7985",
+    "BABEL.txt": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76",
+    "MODERNIZR.txt": "2ae53766289f44df1f380e526aafe817f0f8d7c1f09479e2042478aef3e04c87"
+  },
+  "static_audit": {
+    "application_network_apis": [],
+    "application_storage_apis": [],
+    "application_dynamic_code_or_dom_sinks": [],
+    "secret_pattern_hits": [],
+    "reviewed_d3_html_sink_count": 2,
+    "node_syntax_check_pass": true,
+    "device_api_counts": {
+      "DeviceOrientationEvent": 1,
+      "navigator.vibrate": 2,
+      "ResizeObserver": 7,
+      "IntersectionObserver": 2,
+      "readRenderTargetPixels": 3,
+      "forceContextLoss": 2
+    },
+    "confirmed_dead_code_findings": [],
+    "refactor_equivalence": {
+      "random_cases": 100000,
+      "spatial_max_abs_diff": 7.105427357601002e-15,
+      "dynamic_max_abs_diff": 0.0,
+      "tolerance": 1e-12
+    }
+  },
+  "v51_refactoring": {
+    "flow_vector_helpers": [
+      "alongFlow",
+      "flowCrossDistance"
+    ],
+    "atlas_size_helper": "fluidAtlasSize",
+    "named_constants": [
+      "FLUID_ABSORB",
+      "FLUID_MAX_REF_INIT"
+    ],
+    "default_values_derived_from": [
+      "DEFAULT_PARAMS",
+      "FLUID_GRID_TIERS.standard"
+    ],
+    "source_blank_lines_removed": 358,
+    "bundle_blank_lines_removed": 119
+  },
+  "model_features": {
+    "gpu_scalar_field": true,
+    "illustrative_riverbed_morphology": true,
+    "erosion_control": true,
+    "deposition_control": true,
+    "terrain_relief_display_unit": "cm (visualization-derived, not measurement)",
+    "synthetic_uncertainty_data": true
+  }
+}
