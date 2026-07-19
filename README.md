@@ -6,7 +6,8 @@ Repository-root `index.html` is the offline release. React, ReactDOM, D3, Three.
 
 ## Demo
 
-A GitHub Pages demo will be added after the repository is published.
+Try it here!
+https://analyst-mm-2749261.github.io/riverbed-fluid-3d-simulator/
 
 ## Features
 
