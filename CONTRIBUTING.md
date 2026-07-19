@@ -16,4 +16,4 @@ When redistributing a modified copy:
 - do not present simulated values, riverbed changes, or display-derived units as
   validated physical measurements or predictions.
 
-Do not report security vulnerabilities publicly. Follow [SECURITY.md](SECURITY.md).
+Do not report security vulnerabilities publicly.
