@@ -2,8 +2,7 @@
 
 ## Supported version
 
-Only the most recent tagged release is supported. The CDN-based file under
-`source/` is development source and is not a release artifact.
+Only the most recent tagged release is supported. 
 
 ## Reporting a vulnerability
 
