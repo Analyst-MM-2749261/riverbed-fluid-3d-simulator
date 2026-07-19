@@ -51,7 +51,7 @@ When redistributing `index.html`, also distribute `THIRD_PARTY_NOTICES.md` and t
 
 ## Contributions and security
 
-This repository may be operated as a read-only educational reference with Issues and pull requests disabled. See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
+This repository may be operated as a read-only educational reference with Issues and pull requests disabled. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
