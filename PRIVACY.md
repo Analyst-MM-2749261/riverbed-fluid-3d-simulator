@@ -46,8 +46,6 @@ URL strings and unused networking functions. Their presence does not by itself
 initiate a request. Release testing should still confirm behavior with the
 browser Network panel while offline.
 
-The file under `source/` is a development/reference version and deliberately
-loads dependencies from CDNs. It is not the offline release.
 
 ## Personal information
 
