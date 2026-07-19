@@ -1,11 +1,7 @@
 # Changelog
 
-## [Unreleased]
 
-- Replace the copyright placeholder.
-- Complete browser, offline-network, accessibility, GPU, morphology, quality-switching, and stability tests.
-
-## [1.0.0] - YYYY-MM-DD
+## [1.0.0] - 2026-07-20
 
 ### Added
 
