@@ -14,6 +14,8 @@ https://analyst-mm-2749261.github.io/riverbed-fluid-3d-simulator/
 
 https://zenn.dev/hajimeteradio3/articles/610918e581c7be
 
+https://note.com/hajimeteradio3/n/n38a392847175
+
 https://youtu.be/Zq3b1iKOgUI
 
 https://youtube.com/shorts/rBMXIm1aPls?feature=share
