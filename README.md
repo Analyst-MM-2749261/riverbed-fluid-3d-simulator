@@ -10,6 +10,10 @@ Try it here!
 
 https://analyst-mm-2749261.github.io/riverbed-fluid-3d-simulator/
 
+## Blog
+
+https://zenn.dev/hajimeteradio3/articles/610918e581c7be
+
 ## Features
 
 - Simplified completely mixed relative-value model.
