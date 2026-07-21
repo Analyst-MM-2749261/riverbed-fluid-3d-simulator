@@ -10,9 +10,15 @@ Try it here!
 
 https://analyst-mm-2749261.github.io/riverbed-fluid-3d-simulator/
 
-## Blog
+## Blog and others
 
 https://zenn.dev/hajimeteradio3/articles/610918e581c7be
+
+https://youtu.be/Zq3b1iKOgUI
+
+https://youtube.com/shorts/rBMXIm1aPls?feature=share
+
+
 
 ## Features
 
